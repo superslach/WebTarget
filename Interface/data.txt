@@ -1,0 +1,3 @@
+test@mail.com;mail.com;mail@mail.com;mail@mail.com;gmail.com;test@gmail.com;
+
+http://univcergy.phpnet.org/python/mail.html
